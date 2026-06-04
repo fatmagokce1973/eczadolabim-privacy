@@ -1,39 +1,105 @@
-# eczadolabim-privacy
-Privacy policy for Ecza Dolabım app
-# Privacy Policy – Ecza Dolabım
+# Gizlilik Politikası
 
-Last updated: 2026
+Son Güncelleme Tarihi: 04 Haziran 2026
 
-Ecza Dolabım respects user privacy.
+## Ecza Dolabım Gizlilik Politikası
 
-## Data Collection
+Ecza Dolabım ("uygulama"), kullanıcıların ilaçlarını, hatırlatmalarını ve sağlıkla ilgili kişisel kayıtlarını düzenlemelerine yardımcı olmak amacıyla geliştirilmiştir.
 
-The app may collect:
+Bu Gizlilik Politikası, uygulamayı kullanırken hangi verilerin toplandığını, nasıl kullanıldığını ve korunduğunu açıklamaktadır.
 
-* Medicine information entered by user
-* Reminder times
-* Usage preferences
+## 1. Toplanan Veriler
 
-Data is stored locally and may be synced using Firebase.
+Ecza Dolabım aşağıdaki bilgileri toplayabilir:
 
-## Ads
+* E-posta adresi (hesap oluşturulması durumunda)
+* Kullanıcı tarafından girilen ilaç bilgileri
+* İlaç kullanım tarihleri ve hatırlatma ayarları
+* Bildirim tercihleri
+* Uygulama performans ve hata kayıtları
+* Google hesabı ile giriş yapılması durumunda Google tarafından sağlanan temel kullanıcı bilgileri (isim, e-posta adresi)
 
-The app uses Google AdMob to display ads.
+Kullanıcı tarafından girilen sağlık verileri yalnızca uygulamanın temel işlevlerini yerine getirebilmesi amacıyla kullanılır.
 
-## Personal Data
+## 2. Verilerin Kullanımı
 
-* No sensitive personal data is collected
-* Email is only used for authentication
+Toplanan bilgiler aşağıdaki amaçlarla kullanılabilir:
 
-## Security
+* Kullanıcı hesabının oluşturulması ve yönetilmesi
+* İlaç hatırlatmalarının gönderilmesi
+* Verilerin cihazlar arasında senkronize edilmesi
+* Uygulama güvenliğinin sağlanması
+* Teknik sorunların tespit edilmesi ve giderilmesi
+* Kullanıcı deneyiminin geliştirilmesi
 
-User data is محفوظ and not shared with third parties.
+## 3. Verilerin Saklanması
 
-## Third-party Services
+Kullanıcı verileri cihaz üzerinde ve/veya güvenli bulut hizmetlerinde saklanabilir.
 
-* Firebase
-* Google AdMob
+Verilerin korunması için makul teknik ve idari güvenlik önlemleri uygulanmaktadır. Ancak internet üzerinden gerçekleştirilen veri aktarım yöntemlerinin tamamen güvenli olduğu garanti edilemez.
 
-## Contact
+## 4. Üçüncü Taraf Hizmetler
 
-[ahmetcicek@example.com](mailto:ahmetcicek@example.com)
+Uygulama aşağıdaki üçüncü taraf hizmetleri kullanabilir:
+
+* Firebase Authentication
+* Firebase Firestore
+* Firebase Storage
+* Google Sign-In
+* Google Play Services
+
+Bu hizmetler kendi gizlilik politikalarına göre veri işleyebilir.
+
+## 5. Bildirimler
+
+Ecza Dolabım, kullanıcı tarafından oluşturulan ilaç hatırlatmalarını gösterebilmek amacıyla cihaz bildirimlerini kullanır.
+
+Bildirimler kullanıcı tarafından istenildiği zaman cihaz ayarlarından devre dışı bırakılabilir.
+
+## 6. Veri Paylaşımı
+
+Kullanıcı verileri;
+
+* Yasal zorunluluklar dışında,
+* Kullanıcının açık izni olmadan,
+
+üçüncü kişilerle satılmaz, kiralanmaz veya ticari amaçla paylaşılmaz.
+
+## 7. Çocukların Gizliliği
+
+Uygulama özellikle çocuklara yönelik olarak tasarlanmamıştır.
+
+Ebeveyn veya yasal temsilci, çocuğuna ait verilerin işlendiğini düşünüyorsa aşağıdaki iletişim adresinden bizimle iletişime geçebilir.
+
+## 8. Hesap ve Veri Silme
+
+Kullanıcılar uygulama içerisindeki hesap silme özelliğini kullanarak hesaplarını silebilirler.
+
+Hesap silme işlemi sonrasında:
+
+* Kullanıcı hesabı kaldırılır.
+* Bulutta saklanan kullanıcı verileri silinir veya anonim hale getirilir.
+* Yasal yükümlülükler kapsamında tutulması gereken veriler hariç olmak üzere bilgiler sistemden kaldırılır.
+
+## 9. Kullanıcı Hakları
+
+Kullanıcılar aşağıdaki haklara sahiptir:
+
+* Verilerine erişme
+* Verilerinin düzeltilmesini isteme
+* Verilerinin silinmesini talep etme
+* Verilerinin işlenmesine ilişkin bilgi alma
+
+## 10. Gizlilik Politikasındaki Değişiklikler
+
+Bu Gizlilik Politikası zaman zaman güncellenebilir.
+
+Güncellemeler bu sayfada yayınlandığı tarihten itibaren geçerli olur.
+
+## 11. İletişim
+
+Gizlilik Politikası hakkında sorularınız için:
+
+E-posta: [eczadolabimapp@gmail.com](mailto:eczadolabimapp@gmail.com)
+
+Geliştirici: Fatma Gökçe
